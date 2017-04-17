@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\bin\Debug\Yaşımı Bul.exe.config
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\bin\Debug\Yaşımı Bul.exe
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\bin\Debug\Yaşımı Bul.pdb
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\obj\Debug\Yaşımı Bul.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\obj\Debug\Yaşımı_Bul.Form1.resources
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\obj\Debug\Yaşımı_Bul.Properties.Resources.resources
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\obj\Debug\Yaşımı Bul.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\obj\Debug\Yaşımı Bul.exe
+d:\belgeler\visual studio 2017\Projects\Yaşımı Bul\Yaşımı Bul\obj\Debug\Yaşımı Bul.pdb

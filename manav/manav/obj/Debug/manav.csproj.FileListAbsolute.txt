@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2017\Projects\manav\manav\bin\Debug\manav.exe.config
+d:\belgeler\visual studio 2017\Projects\manav\manav\bin\Debug\manav.exe
+d:\belgeler\visual studio 2017\Projects\manav\manav\bin\Debug\manav.pdb
+d:\belgeler\visual studio 2017\Projects\manav\manav\obj\Debug\manav.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2017\Projects\manav\manav\obj\Debug\manav.Properties.Resources.resources
+d:\belgeler\visual studio 2017\Projects\manav\manav\obj\Debug\manav.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2017\Projects\manav\manav\obj\Debug\manav.exe
+d:\belgeler\visual studio 2017\Projects\manav\manav\obj\Debug\manav.pdb
+d:\belgeler\visual studio 2017\Projects\manav\manav\obj\Debug\manav.form1.resources

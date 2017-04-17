@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\bin\Debug\BilgisayarKapatmaZamanlayıcı.exe.config
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\bin\Debug\BilgisayarKapatmaZamanlayıcı.exe
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\bin\Debug\BilgisayarKapatmaZamanlayıcı.pdb
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\obj\Debug\BilgisayarKapatmaZamanlayıcı.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\obj\Debug\BilgisayarKapatmaZamanlayıcı.Form1.resources
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\obj\Debug\BilgisayarKapatmaZamanlayıcı.Properties.Resources.resources
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\obj\Debug\BilgisayarKapatmaZamanlayıcı.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\obj\Debug\BilgisayarKapatmaZamanlayıcı.exe
+d:\belgeler\visual studio 2017\Projects\BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı\obj\Debug\BilgisayarKapatmaZamanlayıcı.pdb

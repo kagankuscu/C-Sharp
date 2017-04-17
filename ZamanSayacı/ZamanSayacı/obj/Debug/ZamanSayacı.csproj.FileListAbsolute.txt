@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\bin\Debug\ZamanSayacı.exe.config
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\bin\Debug\ZamanSayacı.exe
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\bin\Debug\ZamanSayacı.pdb
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.Form1.resources
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.Properties.Resources.resources
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.exe
+d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.pdb
