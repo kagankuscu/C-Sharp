@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.0
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgisayarKapatmaZamanlayıcı", "BilgisayarKapatmaZamanlayıcı\BilgisayarKapatmaZamanlayıcı.csproj", "{1B6F0FDD-6CDA-40EB-98BF-DE7490AAFE5C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Zamanlı Bilgisayar Kapatma", "Zamanlı Bilgisayar Kapatma\Zamanlı Bilgisayar Kapatma.vdproj", "{2C0D7681-3753-4233-9D36-48FB0FC6CC74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{1B6F0FDD-6CDA-40EB-98BF-DE7490AAFE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B6F0FDD-6CDA-40EB-98BF-DE7490AAFE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B6F0FDD-6CDA-40EB-98BF-DE7490AAFE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0D7681-3753-4233-9D36-48FB0FC6CC74}.Debug|Any CPU.ActiveCfg = Debug
+		{2C0D7681-3753-4233-9D36-48FB0FC6CC74}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

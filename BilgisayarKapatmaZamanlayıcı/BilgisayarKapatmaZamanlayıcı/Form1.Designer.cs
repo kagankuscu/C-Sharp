@@ -47,6 +47,7 @@
             // btnIptalEt
             // 
             this.btnIptalEt.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnIptalEt.BackgroundImage")));
+            this.btnIptalEt.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnIptalEt.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnIptalEt.Location = new System.Drawing.Point(280, 55);
             this.btnIptalEt.Name = "btnIptalEt";
@@ -92,7 +93,7 @@
             // 
             this.lblDakika.AutoSize = true;
             this.lblDakika.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblDakika.Location = new System.Drawing.Point(30, 40);
+            this.lblDakika.Location = new System.Drawing.Point(20, 40);
             this.lblDakika.Name = "lblDakika";
             this.lblDakika.Size = new System.Drawing.Size(43, 46);
             this.lblDakika.TabIndex = 14;
@@ -107,7 +108,7 @@
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.groupBox1.Location = new System.Drawing.Point(414, 15);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(191, 166);
+            this.groupBox1.Size = new System.Drawing.Size(207, 166);
             this.groupBox1.TabIndex = 17;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Süre";
@@ -116,7 +117,8 @@
             // 
             this.lblMetin.AutoSize = true;
             this.lblMetin.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblMetin.Location = new System.Drawing.Point(32, 102);
+            this.lblMetin.ForeColor = System.Drawing.Color.Red;
+            this.lblMetin.Location = new System.Drawing.Point(6, 110);
             this.lblMetin.Name = "lblMetin";
             this.lblMetin.Size = new System.Drawing.Size(97, 31);
             this.lblMetin.TabIndex = 22;
@@ -162,17 +164,21 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(620, 195);
+            this.CancelButton = this.btnIptalEt;
+            this.ClientSize = new System.Drawing.Size(663, 195);
             this.Controls.Add(this.txtDakika);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnYenidenKapatma);
             this.Controls.Add(this.btnKapat);
             this.Controls.Add(this.btnIptalEt);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(567, 233);
+            this.MinimumSize = new System.Drawing.Size(633, 233);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Bilgisayar Kapatma";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
