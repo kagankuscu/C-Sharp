@@ -1,0 +1,9 @@
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\bin\Debug\NotePad1.exe.config
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\bin\Debug\NotePad1.exe
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\bin\Debug\NotePad1.pdb
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.csprojResolveAssemblyReference.cache
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.Form1.resources
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.Properties.Resources.resources
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.csproj.GenerateResource.Cache
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.exe
+c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.pdb
