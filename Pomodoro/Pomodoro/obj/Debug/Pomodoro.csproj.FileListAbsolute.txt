@@ -1,0 +1,9 @@
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csprojResolveAssemblyReference.cache
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Form1.resources
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.Resources.resources
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.GenerateResource.Cache
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
