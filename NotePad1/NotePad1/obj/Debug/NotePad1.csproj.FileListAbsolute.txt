@@ -7,3 +7,12 @@ c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug
 c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.csproj.GenerateResource.Cache
 c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.exe
 c:\users\kagan\documents\visual studio 2015\Projects\NotePad1\NotePad1\obj\Debug\NotePad1.pdb
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\bin\Debug\NotePad1.exe.config
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\obj\Debug\NotePad1.exe
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\obj\Debug\NotePad1.pdb
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\bin\Debug\NotePad1.exe
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\bin\Debug\NotePad1.pdb
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\obj\Debug\NotePad1.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\obj\Debug\NotePad1.Form1.resources
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\obj\Debug\NotePad1.Properties.Resources.resources
+D:\OneDrive\Documents\GitHub\C-Sharp\NotePad1\NotePad1\obj\Debug\NotePad1.csproj.GenerateResource.Cache
