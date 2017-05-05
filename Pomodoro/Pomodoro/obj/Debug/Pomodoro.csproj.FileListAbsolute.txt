@@ -7,3 +7,6 @@ c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug
 c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.GenerateResource.Cache
 c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
 c:\users\kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
+C:\Users\Kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\tr\Pomodoro.resources.dll
+C:\Users\Kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Form1.tr.resources
+C:\Users\Kagan\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\tr\Pomodoro.resources.dll
