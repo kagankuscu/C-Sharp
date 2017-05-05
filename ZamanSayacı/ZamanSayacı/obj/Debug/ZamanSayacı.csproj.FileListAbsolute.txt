@@ -7,3 +7,6 @@ d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\Zama
 d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.csproj.GenerateResource.Cache
 d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.exe
 d:\belgeler\visual studio 2017\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.pdb
+D:\OneDrive\Documents\GitHub\C-Sharp\ZamanSayacı\ZamanSayacı\bin\Debug\ZamanSayacı.exe.config
+D:\OneDrive\Documents\GitHub\C-Sharp\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.exe
+D:\OneDrive\Documents\GitHub\C-Sharp\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.pdb
